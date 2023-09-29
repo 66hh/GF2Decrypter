@@ -1,0 +1,2 @@
+public const string CRI_DECRYPT_KEY = "8930254087621254";
+public const ulong CRI_DECRYPT_KEY_ULONG = 8930254087621254UL;
